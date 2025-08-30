@@ -1,0 +1,107 @@
+"Disease","Vaccine","Minimum age","Maximum age","Dose","Route of administration","Composition","Indication"
+"Tubercolosis","Tubervac","1 month","indefinite","0.1ml","Intradermal Injection","Live, attenuated BCG Vaccine (Bacillus Calmette-Guerin Strain)
+
+Each 1 ml contains between
+2 x 106 and 8 x 106 Colony Forming Units (C.F.U.)
+Diluent: Sodium Chloride Injection I.P.","For the prevention of Tuberculosis"
+"Tetanus","Tetanus Vaccine (Adsorbed)","1 month","18 years","0.5ml","Intramuscular Injection","Each dose of 0.5 ml contains:
+Tetanus Toxoid ≥ 5 Lf (≥ 40 IU)
+Adsorbed on Aluminium Phosphate, Al+++ ≤ 1.25 mg
+Preservative: 0.005% Thiomersal","For the immunization of infants, children and adults of all ages For the people at greater risk at work eg. gardeners, athletes, farmers, laboratory staff etc. For women of childbearing age and pregnant women to prevent neonatal tetanus."
+"Tetanus","Dual Antigen","1 month","7 years","0.5ml","Intramuscular Injection
+","Each single 0.5 ml dose contains
+Diphtheria Toxoid ≤ 25 Lf (≥ 30 IU)
+Tetanus Toxoid ≥ 5 Lf (≥ 40 IU)
+Adsorbed on Aluminium Phosphate, Al+++ ≤ 1.25 mg
+Preservative: 0.005% Thiomersal","For the prevention of diphtheria and tetanus in children less than 7 years of age when pertussis antigens is contraindicated or should not be used."
+"Diptheria","Dual Antigen","1 month","7 years","0.5ml","Intramuscular Injection
+","Each single 0.5 ml dose contains
+Diphtheria Toxoid ≤ 25 Lf (≥ 30 IU)
+Tetanus Toxoid ≥ 5 Lf (≥ 40 IU)
+Adsorbed on Aluminium Phosphate, Al+++ ≤ 1.25 mg
+Preservative: 0.005% Thiomersal","For the prevention of diphtheria and tetanus in children less than 7 years of age when pertussis antigens is contraindicated or should not be used."
+"Tetanus","SII Td-Vac","1 month","7 years","0.5ml","Intramuscular Injection
+","Each single 0.5 ml human dose contains
+Diphtheria Toxoid ≤ 5 Lf (≥ 2 IU)
+Tetanus Toxoid ≥ 5 Lf (≥40 IU)
+Adsorbed on Aluminium Phosphate, Al+++ ≤ 1.25 mg
+Preservative: 0.005% Thiomersal","Indicated for primary vaccination and revaccination of adults and adolescents having contraindications of Pertussis antigen. Primary vaccination and revaccination of children older than 7 years.
+"
+"Diptheria","SII Td-Vac","7 years","indefinite","0.5 ml","Intramuscular Injection
+","Each single 0.5 ml dose contains
+Diphtheria Toxoid ≤ 25 Lf (≥ 30 IU)
+Tetanus Toxoid ≥ 5 Lf (≥ 40 IU)
+Adsorbed on Aluminium Phosphate, Al+++ ≤ 1.25 mg
+Preservative: 0.005% Thiomersal","For the prevention of diphtheria and tetanus in children less than 7 years of age when pertussis antigens is contraindicated or should not be used."
+"Rabies","Rabivax-S","indefinite","indefinite","0.1 ml","Intramuscular & Intra-dermal.","","RABIVAX-S is indicated for the prevention of rabies in children and adults. It can be used before or after exposure, as a primary immunization or as a booster dose."
+"Measles","Tresivac","9 month","6 years","0.5 ml","Subcutaneous injection
+","The reconstituted vaccine contains in each single human dose of 0.5 ml:
+Not less than 1000 CCID50 of Measles virus
+Not less than 5000 CCID50 of Mumps virus
+Not less than 1000 CCID50 of Rubella virus","For active immunization against Measles, Mumps and Rubella in infants & children, adolescents and young adults at risk."
+"Mumps","Tresivac","9 month","6 years","0.5 ml","Subcutaneous injection
+","The reconstituted vaccine contains in each single human dose of 0.5 ml:
+Not less than 1000 CCID50 of Measles virus
+Not less than 5000 CCID50 of Mumps virus
+Not less than 1000 CCID50 of Rubella virus","For active immunization against Measles, Mumps and Rubella in infants & children, adolescents and young adults at risk."
+"Rubella","Tresivac","9 month","6 years","0.5 ml","Subcutaneous injection
+","The reconstituted vaccine contains in each single human dose of 0.5 ml:
+Not less than 1000 CCID50 of Measles virus
+Not less than 5000 CCID50 of Mumps virus
+Not less than 1000 CCID50 of Rubella virus","For active immunization against Measles, Mumps and Rubella in infants & children, adolescents and young adults at risk."
+"Measles","MR-vac","indefinite","indefinite","0.5 ml","Subcutaneous injection.
+","Each single human dose when reconstituted in a volume of 0.5ml contains not less than 1000 CCID50 of live Measles virus particles and 1000 CCID50 of Rubella virus.","
+For active immunization against Measles and Rubella in infants, children, Adolescents and young adults at risk."
+"Rubella","MR-vac","indefinite","indefinite","0.5 ml","Subcutaneous injection.
+","Each single human dose when reconstituted in a volume of 0.5ml contains not less than 1000 CCID50 of live Measles virus particles and 1000 CCID50 of Rubella virus.","
+For active immunization against Measles and Rubella in infants, children, Adolescents and young adults at risk."
+"Rubella","R-vac","indefinite","indefinite","0.5 ml","Subcutaneous injection
+","Each single dose when reconstituted in a volume of 0.5 ml contains: Not less than 1000 CCID50 of live rubella virus particles","For active immunization against rubella
+For immunization of susceptible non-pregnant females of childbearing age
+For immunization of adolescents and adult males for preventing or controlling outbreaks of rubella"
+"Polio","Poliovac","6 weeks","18 month","0.5 ml","Intramuscular or Subcutaneous Injection.","Poliomyelitis virus type 1, Mahoney strain 40 D antigen units
+Poliomyelitis virus type 2, MEF-I strain 8 D antigen units
+Poliomyelitis virus type 3, Saukett strain 32 D antigen units
+Preservative : 2-phenoxyethanol 2.5 mg Formaldehyde 12.5 mcg
+* Cultivated on Vero Cells","Poliomyelitis vaccine (Inactivated) is indicated for active immunization of infants, children and adults for the prevention of poliomyelitis caused by poliovirus Types 1, 2 and 3."
+"Rotavirus","Rotasil","6 weeks","indefinite","2.5 ml"," ORAL ADMINISTRATION ONLY","Each dose of 2.5 ml contains:
+Live, attenuated Bovine – Human Rotavirus Reassortant [G1, G2, G3, G4 and G9]* ≥ 105.6 FFU/Serotype
+Diluent is a sterile solution (Citrate Bicarbonate Buffer) prepared using 9.6 mg/ml citric acid monohydrate and 25.6 mg/ml sodium bicarbonate
+*Grown on Vero cells","Rotavirus Vaccine, Live Attenuated (Oral) is indicated for active immunization of healthy infants from the age of 6 weeks for the prevention of gastroenteritis due to rotavirus infection when administered as a 3-dose series"
+"Covid-19","Covishield","18 years","indefinite","5 ml","Intramuscular Injection, preferably in deltoid muscle","One dose (0.5 ml) contains: ChAdOx1 nCoV- 19 Corona Virus Vaccine (Recombinant) 5 × 10 virus particles (vp) ","COVISHIELD™ is indicated for active immunisation of individuals ≥18 years old for the prevention of coronavirus disease
+2019 (COVID-19)."
+"Covid-19","Covaxin","6 years","indefinite","5 ml","Intramuscular Injection, preferably in deltoid muscle","COVAXIN®
+includes the following ingredients: COVAXIN®
+contains 6µg of whole-virion inactivated
+SARS CoV-2 antigen (Strain: NIV-2020-770), and the other inactive ingredients such as aluminum
+hydroxide gel (250 µg), TLR 7 /8 agonist (imidazoquinolinone) 15 µg, 2-phenoxyethanol 2.5 mg, and
+phosphate buffer saline up to 0.5 ml","The Bharat Biotech COVID-19 Vaccine (COVAXIN®
+) is a vaccine indicated for active immunization
+against SARS-CoV-2 virus infection."
+"Covid-19","Covovax","7 years","indefinite","0.5 ml","Intramuscular Injection, preferably in deltoid muscle","One dose (0.5 ml) contains 5 micrograms of SARS-CoV-2 spike protein* and is adjuvanted with 50 micrograms
+of Matrix-M1.
+Adjuvant Matrix-M1 containing per 0.5 ml dose: Fraction-A(42.5 micrograms) and Fraction-C (7.5 micrograms) of Quillaja saponaria Molina extract","COVOVAX is indicated for active immunization to prevent COVID-19 caused by SARS-CoV-2 in individuals
+7 years of age and older"
+"Tubercolosis","BCG","2 weeks","indefinite","0.1 ml","Intradermal Injection","The freeze-dried BCG preparation is delivered in vials, each
+containing 1 to 8 x 108
+ colony forming units (CFU) of BCG which is equivalent to approximately
+50 mg wet weight.","For the prevention of Tuberculosis"
+"Cervical Cancer","Cervavac","9 years","26 years","1 ml","Intramuscular Injection in the deltoid muscle","Each dose of 0.5 ml contains
+Human Papillomavirus type 6 L1 protein ≤ 20 mcg
+Human Papillomavirus type 11 L1 protein ≥ 40 mcg
+Human Papillomavirus type 16 L1 protein ≥ 40 mcg
+Human Papillomavirus type 18 L1 protein ≥ 20 mcg
+Al+++ ≥ 1.25 mg","CERVAVAC® is indicated in girls and women 9 through 26 years of age for the prevention of the following diseases caused by Human Papillomavirus (HPV) types, included in the vaccine:
+- Cervical, vulvar, vaginal, and anal cancer caused by HPV types 16 and 18.
+- Genital warts (condyloma acuminata) caused by HPV types 6 and 11."
+"Hepatitis B","Genevac-B","2 weeks","19 years","0.5 ml","Intramuscular Injection.","Each ml dose contains
+Purified Hepatitis-B surface antigen 20 mcg
+Adsorbed on Aluminium hydroxide, Al+++ ≤ 1.25 mg
+Preservative: ≤ 0.01% Thiomersal","Hepatitis B vaccine is indicated for active immunization against Hepatitis B infection in subjects considered at risk of exposure to HBV positive material."
+"Hepatitis B","Genevac-B","20 years","indefinite","1 ml","Intramuscular Injection.","Each ml dose contains
+Purified Hepatitis-B surface antigen 20 mcg
+Adsorbed on Aluminium hydroxide, Al+++ ≤ 1.25 mg
+Preservative: ≤ 0.01% Thiomersal","Hepatitis B vaccine is indicated for active immunization against Hepatitis B infection in subjects considered at risk of exposure to HBV positive material."
+"Rabies","Rabishield","indefinite","indefinite","2.5 ml","If anatomically feasible, the full dose of Rabishield should be thoroughly infiltrated in the area around and into the wounds. Any remaining volume Should be injected intramuscularly at a site distant from vaccine administration.","Rabishield 100IU Injection contains Rabies monoclonal antibodies produced through recombinant DNA technologies. ","Rabishield is indicated as passive antibody component of post-exposure Prophylaxis of rabies infection, when given to individuals with suspected Rabies exposure."
+"Polio","OPV","6 weeks","18 years","0.5 ml (2 drops)"," ORAL ADMINISTRATION ONLY","OPV consists of a mixture of live attenuated poliovirus strains of each of the three serotypes, selected by their ability to mimic the immune response following infection with wild polioviruses, but with a significantly reduced incidence of spreading to the central nervous system.","OPV vaccine is used to proctect against type 1, 2 and 3 poliomyletis"
+"Japanese Encephalitis","Japanese Encephalitis vaccine","9 months","2 years","0.5 ml","Intamuscular Injection"," Each 0.5 mL dose of vaccine contains approximately 6 mcg of purified, inactivated JEV proteins and 250 mcg of aluminum hydroxide. ","Japanese encephalitis vaccine, inactivated, adsorbed is an immunization used to help prevent Japanese encephalitis virus (JEV) in adults and adolescents who are at least 2 years old"
