@@ -6,8 +6,6 @@ ShieldRx is a web-based application that provides personalized vaccine recommend
 
 - **User Authentication**
   - Register/Login functionality
-  - Secure password storage
-  - Profile management
 
 - **Vaccine Recommendations**
   - Age-based vaccine suggestions
